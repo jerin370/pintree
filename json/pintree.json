@@ -1,247 +1,415 @@
 [
   {
-    "type": "link",
-    "addDate": 1713259746,
-    "title": "Explore the different Power BI elements - Training | Microsoft Learn",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAQklEQVQ4jWP87if3nwEH4Nz0iLF+FwNO+UY3BkYmXJLEglEDqGAAxYCRYcl7nPHMECPI+H8n7nTA6D6aDgaHARQDAKgRDRsLiHU6AAAAAElFTkSuQmCC",
-    "url": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/3-explore-different-power-bi-elements"
-  },
-  {
-    "type": "link",
-    "addDate": 1713410824,
-    "title": "Quick Start – React",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC9ElEQVQ4jW2TTWhddRDFf+f/v3nXxCRFkfqJQqFUCEhdiFajaURBqgvT+ITGvKQI1kVsiBi6MS8+Xl5Waf2qmCqpYD6qEnUhogG1RYmk4EIEF4Wi4FdopSqN2nrfvfc/Lp7WKM5qhjkHZubMEf+JqHxkG5ZvyH489wkvP3oOgD0vtUQbW+5A/mw20beyHq/1ReHJ2X1y7mawU8B1ufECgJceA/sGdAVmx5NaaepvjrvAHlvYLKfu5Kezg8lEaSjxjHinGe80k6Q2kkyUhpLzYQBHN2MLmy9MTKXiAOIs22Lyn/Pi0G+Nmh6cvYmkOKIngSn2D/xu5dkvYrItSaXyVWOFYtGzuJhH4692e3OjwPtm3Ia4G+kowpzZ9mAclWkZ2Y5cYX9WHTxGsegFEI/N3wf2ONKVBm8JHkiytIfUf0dyWVbYcGaTnN4x0xGJBwm2CuGZpDb4rm8qLwzj6LWgqol2Ea5GOpRPDn7cdOf9D/vm8zemtYEl37nzDGibmZ0I8s9KGnZdvRudJ/TV19Ld6WT/cRmrkttar/a/0TQ+/4hvaTvkm1unLyrP7alPll6TuEFOP2QTfSv1X9PdntDXUEH5P2pgjdwsRh7kMSj81fSYtJ7jtb03jgp+VF07vwduBZ3yt/e0prXSYXfLvaml9Y/qtdLThfG5hxzWGlDsunrWojiaCtLbAojG5u7x0ihwjREWhXYFQjGt//E1FoWm+OLrnfLXjTAn2IXp29zbgaxSWnIUiz6rlZZysxpwUtKqwYrDHysUWmYKzYUZR/aBYZ8qcBrjZO5tMquUligWfURHh9HR4XymViN8Wa8OTAPTcXl+RNImDJA9Va+WngMolGev9YG2rPGAFlGpBICkMncizjXE3vl2DvavJVm6FEfRhwBJlt0FwL7DbUJbk5C9QrXB+5eZ4rH5J5B1Ik6DuyoP2fONS7thxCrG5UjLSbX/wP+6EaCpPH+Tifbsl0uXObgjAWDve3F0yc+dMtbSif7P1uP/BNwnP3Xw88OYAAAAAElFTkSuQmCC",
-    "url": "https://react.dev/learn"
-  },
-  {
-    "type": "link",
-    "addDate": 1713517179,
-    "title": "AI Detector - Undetectable AI Humanizer - Bypass AI | HIX Bypass",
-    "url": "https://bypass.hix.ai/"
-  },
-  {
-    "type": "link",
-    "addDate": 1713848116,
-    "title": "Integrating Stripe Payment Gateway In Angular | Stripe Payment Checkout Example | by Abhinav Akhil | Medium",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABk0lEQVQ4jaWTsYoiQRCGv+7emUFBmER8BF/AAwNfwFARFBTBSJjAVDQQzIwW7kEMRjAwMxBMDQ18ABMzA2HsrQscG9275WS3oGn4q/7qv6v/BngHEsACH4D8Z32ktVfgXaUg6a54LVytfuisjDH3ZhhjnhjGmDt2JwsgKpWkvqlA9ANJ9ft94jhmuVwyHA7JZrOO0Ww2GQwGAPi+r9KcQiklQRDIfD6Xz7HdbiWTyUipVHJYq9WSTqcj4/FYAHkTERqNBvV6nSRJUOom6Hq9Ui6XiaKIfD6PiGCtpd1uczweCcMQgDeAarWKtdYNSymFUgprLbVajfP57HLFYvFpyBrA8zx38mMopTDGoLV+wkTcY90arFYrtNZOprWWJEnQWrNYLNjtdi53OBw4nU5cLhfXUXzflziO/xrifr+XMAylUqk4rNvtSq/Xk8lkcvfPzRBBEMhoNJL1ei2bzUZms5kUCgVn4SiKZDqdiud5EgSB5HK514z0+c7/MhJfWfmR/IWV+amVMUAI/HpU/QJZ0i/9+w8yEPFCQJmzEwAAAABJRU5ErkJggg==",
-    "url": "https://akhilabhinav.medium.com/integrating-stripe-payment-gateway-in-angular-stripe-payment-checkout-example-502776d5eb07"
-  },
-  {
-    "type": "link",
-    "addDate": 1714992403,
-    "title": "Basic JavaScript: Access Multi-Dimensional Arrays With Indexes | freeCodeCamp.org",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAClElEQVQ4jWWSy0tUYRjG3/f7zpnjOeOgecOj42ku5oUS8UYwZYrB1CYX4aKFieBCIkpEAgmkXeJGCHTdgJvoL9DwEjgT6MbAxMJbpqUGM5g258y5fV+LsYHoWb7Pw7v48UNZDiEiAAAA5wDA4b/8HXDOkeROjHHEiw7/DWMcEQEQgBNE4JzreloUKWOccw4AjuNmH3LOGWOiSHVdZ4whIgEghnE+Pv68s/NGJvObUso5Lyz0WZYFAIQQ0zSamq5NTb10HAuAE11PDg09KisrnZt7pyg+RMxkToeHB0dHHxvGKSIqSn4i8cE0M2NjI7p+CprWsrgYLyqqE4QqRQkrSphSNZFYtW27tjYiilVeb7UkBUXRPzv7vrHxNunuvrO29imV+qEoMiFE18+i0a5IpE0QhK6uW7Z9Rin1eETbPo/HV3p67pFAQNvfPwCgAGDbts9XMDn54ujo5+rqx5KSS6WlqmWZAAAg7OzsqWqZwBjLkqGUmOb5yMizurorfX1PA4GqwcGHoVBwYOCJxyMBYJYYOT4+VlUVgLsuE0W5t/f++vrnmZnXDQ31lZVqR8f1goJix3EAHL+/IplMkfn5RHPzVUHId13mOE46rcdibwDY9HQsFnt7eHhsGGlCCACNRNoWFuL05ORXe/vN+vrw0tICIUI6nUkmU5ubB/v7O7u737a29jY2vpjmeX9/X01NaGLiFUjS5eLiunh8JRp9gFguy8Hy8sa8vKCihDWtTZaDlFa0tt5dXl7RtBZR9KPXW20YhqqW+Xy+7e09SZIcxyGEAIDruoIg2LalaX7Xdb5+/e71KijLIUKIZVmMMUmSOOc5eS/8RLQsCwAlycMYExCRMebxeAAgq1eWcs5izrkkSbn2D8SoM2ncwOKxAAAAAElFTkSuQmCC",
-    "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes"
-  },
-  {
-    "type": "link",
-    "addDate": 1715140799,
-    "title": "Legacy JavaScript Algorithms and Data Structures Certification | freeCodeCamp.org",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAClElEQVQ4jWWSy0tUYRjG3/f7zpnjOeOgecOj42ku5oUS8UYwZYrB1CYX4aKFieBCIkpEAgmkXeJGCHTdgJvoL9DwEjgT6MbAxMJbpqUGM5g258y5fV+LsYHoWb7Pw7v48UNZDiEiAAAA5wDA4b/8HXDOkeROjHHEiw7/DWMcEQEQgBNE4JzreloUKWOccw4AjuNmH3LOGWOiSHVdZ4whIgEghnE+Pv68s/NGJvObUso5Lyz0WZYFAIQQ0zSamq5NTb10HAuAE11PDg09KisrnZt7pyg+RMxkToeHB0dHHxvGKSIqSn4i8cE0M2NjI7p+CprWsrgYLyqqE4QqRQkrSphSNZFYtW27tjYiilVeb7UkBUXRPzv7vrHxNunuvrO29imV+qEoMiFE18+i0a5IpE0QhK6uW7Z9Rin1eETbPo/HV3p67pFAQNvfPwCgAGDbts9XMDn54ujo5+rqx5KSS6WlqmWZAAAg7OzsqWqZwBjLkqGUmOb5yMizurorfX1PA4GqwcGHoVBwYOCJxyMBYJYYOT4+VlUVgLsuE0W5t/f++vrnmZnXDQ31lZVqR8f1goJix3EAHL+/IplMkfn5RHPzVUHId13mOE46rcdibwDY9HQsFnt7eHhsGGlCCACNRNoWFuL05ORXe/vN+vrw0tICIUI6nUkmU5ubB/v7O7u737a29jY2vpjmeX9/X01NaGLiFUjS5eLiunh8JRp9gFguy8Hy8sa8vKCihDWtTZaDlFa0tt5dXl7RtBZR9KPXW20YhqqW+Xy+7e09SZIcxyGEAIDruoIg2LalaX7Xdb5+/e71KijLIUKIZVmMMUmSOOc5eS/8RLQsCwAlycMYExCRMebxeAAgq1eWcs5izrkkSbn2D8SoM2ncwOKxAAAAAElFTkSuQmCC",
-    "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript"
-  },
-  {
-    "type": "link",
-    "addDate": 1715144006,
-    "title": "20 Senior Angular Developer Interview Questions | EPAM Anywhere",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB9ElEQVQ4jV1SvWsUcRSceftxt4fnqYdGQSUKEkTQEOysUtjYCNoJUbDwPxAEsRA7EVHQykKDRWysDu20CMIVKSwMKEggSsREFPNh3Lu93TcWe3fEvPL3mzcz773hXLYLW0oSSUDulADATCAhASQRbkMDkCAhjL1CCEozymFW/tK2oAEQkFxhoJVFu3W5Pn2vZsSQBYAN0aQkEXShGujdq7j1vDrzIPm+aHEMiaSkgSVy8ARINKKxR4dGi6Mn8uaIenlJRzPZQE5Af4Ao8p+/7O3LyuPXqyMHfX2NYVDSQaIBIFW6B1gU2Blp+m7t9GQ2frwX1fBlPoioch+ATKVzCKAXqte8PRsvf7WL19LfbqNj+fJSUKV7wdK8lbMQgAgi6/DFw2TqesqABdnc57OtysqPIIr6GiapPEvW0+6qzzxKjp3KxyeyP5sWUgufwjetyvt2lMQuJ6CwfwFq7w59nA8+tKPbzzbWukEcI815bqpzZKyYmOylPaMND0dQeHq/dvNS4/zVtF73vABNecHmAT97oRsncgcJAKE7KxX/tmBP7tTWV9n5SxeNJByk57aRwQKZsQxaaKYs4/7DfuVGuvTZTp7JuwVpEgiQhsAGkRFJcS5ruINUEotA1y3v9dX/r/46Qwk0QtjsGACjzABwkPNtPfgHhZIZbxpp5i8AAAAASUVORK5CYII=",
-    "url": "https://anywhere.epam.com/en/blog/senior-angular-developer-interview-questions"
-  },
-  {
-    "type": "link",
-    "addDate": 1715144128,
-    "title": "Technical Interview Guide for Busy Engineers | Tech Interview Handbook",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACMUlEQVQ4jWWTv2pVXRDFf2v2Od5zL4gY/4CQNEKaYGNh7xsIdiK+xldZpLDyLQIWgr2PYWNpZSCISlASbs49OdmzLM7Nn8u3YcNsmDWz9sxa2t/v9yP0X62rmY24Or4RA8hXkXAp3ZDp903m+NZ2sZ3cwEubePtmbGod5rbeNnYNwLCBkNcI6QqsaxaSnbaJmDoJaWovpSIwGDDjaGo1EVi6/JY1YURMDytzShhHebVKRYi+N8+eNezuBn//psZxyrG1LmbFxFaOsPrevn9fevw4OD83TQNPngSnpxfs7TXs7ISWS7sUK1MGOcCKsFar5O5d6fXrlq4bGAbY2hKlwNGRgRUvXxa2t0NnZ0nEmoEEFxdma0u8eTPj8+cTvn4tlALb28HxcaVW8e1by6dPJ7x6dYuHD8U4GgniekUXRIyM4wIpyEx2dgo/flRsIcG9e7dZrc4ZhhEQNoQNbSuOjxs+fFjy4kWwt1fIhAcPxPfvSa3w9Gnw/Lk5ODjj5KSlbad9NCBnmsVC+v177o8fTzWbFR49ukXXwa9fpusKf/4MHBwky+XC87lVqyxBMw0RapUXC+vnz4X7vmp3t/Lly8gwFOZzc3jYUkpx16VqvdZEcym6y/02jXXnTvHRUdXhoei6INN0XTizyg5HIBsDNLbXIpYjRCbOtEoJmiaYiovJaOH10A3GhkYqKbnYmZmXbpKvpX1lpg07SRGgGhHtu1Jm/f/d5427YWyJUmZ9RPvuH5ZkR5CAi5eJAAAAAElFTkSuQmCC",
-    "url": "https://www.techinterviewhandbook.org/"
-  },
-  {
-    "type": "link",
-    "addDate": 1715144157,
-    "title": "Angular Developer Roadmap: Learn to become a Angular developer",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA1ElEQVQ4ja2SsYqEMBiEv9yeJ1qLPkV8gX23beRqn0JrO8lrWIl9EExju2myjeTYQwN6N/BDMj8zDJMAPIAn4E7OE3iI7fDFNVixuV3GR2gZRdF5AyklbduyLAvWWqZpIsuyoIkvJkkSt66r+w0pZajMn0tRFF7U970ry9KlaRp8jc+jWOM4MgzD+Q6OIIS4blBVFdZauq7b3e92UNe157XWns/z/K2DtwTGGJRSaK2Z59nzTdPgnEMphTHmOEFo4jje5f/lK9s/6O1tM7kDt7Ni4PsFCwyqb3RdVmgAAAAASUVORK5CYII=",
-    "url": "https://roadmap.sh/angular"
-  },
-  {
-    "type": "link",
-    "addDate": 1715230184,
-    "title": "Angular Update Guide",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACL0lEQVQ4jW2TzUuUURTGf+fOvG9+zCgSgRqSGU3Sh1aCo1KRBLUKzUSdnIha9QeEYRC0iBYuWvkHWBHSl7QOiVCKwJcJ1JGwGB0XIqEDjePrqG9zW9QM83V2l+c5v/ucc7mitRbyKnq67aIo6dOkgt/3dpOiGPNomeiYDX3N90oaEG1pbwSCovUdoBoA02Te3syYDVhVWo15Df26NRSaBZDlZn+nKEaB4/l07+AAiwthNmasfAkDIlpz143iXLFmlMIb6KdhaakoYA8aSpRqVQixAhUovdSJu7aGAx3teH2+YhYMzS8lyEoxsWIwwM5cmOTGBkdu3yoKMJX8VCJqoUBoOsW+ppPEx1+x9OwF1VcuU1pbUwBwuwmpOutzBEjl3B68wZ9YDHvyIytv3uIktjh8M5jT7ILdFsuKq/9nO0M9WEtp5wX0dpL9D4c5MXwfZ3OTup5rGJWV2YB1AAWgYTUteAP9oDWpRALTd5SKxmM49hZiGBwK9GdlkEUAN4BoWUS0Tzweyruusv1pivWhB2gg7OwA0PzkMfWBASJjz0klkzgQyiRA9DyAp6cbVV5G4t37goUtvxzHrKqirrvr36JFYpkEaB1CxLE/TLq3p6ZxooUv+zscZvp6H45t44K4C6bI+QvN/npxyQjQm27KHgFAwDFgtMp0PWqxrHgOIF3Rs/42hTzV0JYNMEUmylJqqGPOimT7CwDpWjnj700JIz+cnbUSl3Hv/LeZL8V8fwHBls/d17DBmgAAAABJRU5ErkJggg==",
-    "url": "https://update.angular.io/?l=3&v=12.0-17.0"
-  },
-  {
-    "type": "link",
-    "addDate": 1715246569,
-    "title": "Managing Packages with NPM - Manage npm Dependencies By Understanding Semantic Versioning | Learn | freeCodeCamp.org",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAClElEQVQ4jWWSy0tUYRjG3/f7zpnjOeOgecOj42ku5oUS8UYwZYrB1CYX4aKFieBCIkpEAgmkXeJGCHTdgJvoL9DwEjgT6MbAxMJbpqUGM5g258y5fV+LsYHoWb7Pw7v48UNZDiEiAAAA5wDA4b/8HXDOkeROjHHEiw7/DWMcEQEQgBNE4JzreloUKWOccw4AjuNmH3LOGWOiSHVdZ4whIgEghnE+Pv68s/NGJvObUso5Lyz0WZYFAIQQ0zSamq5NTb10HAuAE11PDg09KisrnZt7pyg+RMxkToeHB0dHHxvGKSIqSn4i8cE0M2NjI7p+CprWsrgYLyqqE4QqRQkrSphSNZFYtW27tjYiilVeb7UkBUXRPzv7vrHxNunuvrO29imV+qEoMiFE18+i0a5IpE0QhK6uW7Z9Rin1eETbPo/HV3p67pFAQNvfPwCgAGDbts9XMDn54ujo5+rqx5KSS6WlqmWZAAAg7OzsqWqZwBjLkqGUmOb5yMizurorfX1PA4GqwcGHoVBwYOCJxyMBYJYYOT4+VlUVgLsuE0W5t/f++vrnmZnXDQ31lZVqR8f1goJix3EAHL+/IplMkfn5RHPzVUHId13mOE46rcdibwDY9HQsFnt7eHhsGGlCCACNRNoWFuL05ORXe/vN+vrw0tICIUI6nUkmU5ubB/v7O7u737a29jY2vpjmeX9/X01NaGLiFUjS5eLiunh8JRp9gFguy8Hy8sa8vKCihDWtTZaDlFa0tt5dXl7RtBZR9KPXW20YhqqW+Xy+7e09SZIcxyGEAIDruoIg2LalaX7Xdb5+/e71KijLIUKIZVmMMUmSOOc5eS/8RLQsCwAlycMYExCRMebxeAAgq1eWcs5izrkkSbn2D8SoM2ncwOKxAAAAAElFTkSuQmCC",
-    "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning"
-  },
-  {
-    "type": "link",
-    "addDate": 1715254123,
-    "title": "Simple Browser - boilerplate-express - Gitpod Code",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACuElEQVQ4jV2TT4iWZRTFf+fe533nm2bSLEsicGHWIgwqMdpIUkFISISJCtGizPAPLSorwcWXixkC2yREFkzkGBQV0SIigmiREs5KF7NrGwZl0cwwzvd+z70tptGhs73ncA7cc8R/SBB9pD4BkF8991S2ZVLuLTX3atfUpUwkkaxCAbh+6JNL556+v+21b6W6vTkM0/iY4p/uJeAooOwjgBWjAiCRObX9dno3v5oehymxJge1Wg/l/MJiwo/Zx/gCqU9dnUAA+fGj27It59Q298Yg07wIL2T691V2stnz5YUVweCb5x/EaNpdZy8CKN/bOZLjcz/ppuaRuBYD67Ut4ZerNFH2f/f5inDps2e2lGbkOFZ2W9M0kZy2xfnXlB88cE9Ye9Hc16SXoeSTDLt39eL5OYCcfvLOaNpX5H5IIyNrY5BhpVhgtRoPF+ROrYmbZddd1eDPUzoyO5/9HSU26oW0fNNKboquS2Ug3LKLxDybLOsKtUvSIIBQwti6hAU21n02Ws7EoCNrYKONostZlHeo5HoigAxjsARRoVYYVsEigoyMcahYCUS9Ete6N4ylxxTD36QKtQYMKXiKWsGBSv6x2P0NYFfnpmPYuxUva63yob184VeAevYJU02oBhEqVCVRRZch2S3rx8s+4CMdu7wATKz+eU5tfzZzeFcuRUouSoTy9Q1jsWHNLzbqW6JTZ8WaDH5QyZM6MvszwOD9h7Y2xY/jZXfg1Vr3GOqK9bqty0U6dffOdJ+W223RZbUR96yqic7gtiD5YfV8LDoNrVdKyhaHHYfaA+c/0fV4E5vvi1YnDO2nGBGkjbgwIzqw1kFGYt9KelsHZ2ZuVBkkllfWvbPp8eJ+ArcdpJYZxUGaqfhkOXrp69WaGwkSsczP3IPHts0Hzf0ApjbEp9b9dVrHfl/4/+z/BTrfTs9BXkM2AAAAAElFTkSuQmCC",
-    "url": "https://freecodecam-boilerplate-2f2jynifh1q.ws-us110.gitpod.io/"
-  },
-  {
-    "type": "link",
-    "addDate": 1715326673,
-    "title": "Back End Development and APIs Certification | freeCodeCamp.org",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAClElEQVQ4jWWSy0tUYRjG3/f7zpnjOeOgecOj42ku5oUS8UYwZYrB1CYX4aKFieBCIkpEAgmkXeJGCHTdgJvoL9DwEjgT6MbAxMJbpqUGM5g258y5fV+LsYHoWb7Pw7v48UNZDiEiAAAA5wDA4b/8HXDOkeROjHHEiw7/DWMcEQEQgBNE4JzreloUKWOccw4AjuNmH3LOGWOiSHVdZ4whIgEghnE+Pv68s/NGJvObUso5Lyz0WZYFAIQQ0zSamq5NTb10HAuAE11PDg09KisrnZt7pyg+RMxkToeHB0dHHxvGKSIqSn4i8cE0M2NjI7p+CprWsrgYLyqqE4QqRQkrSphSNZFYtW27tjYiilVeb7UkBUXRPzv7vrHxNunuvrO29imV+qEoMiFE18+i0a5IpE0QhK6uW7Z9Rin1eETbPo/HV3p67pFAQNvfPwCgAGDbts9XMDn54ujo5+rqx5KSS6WlqmWZAAAg7OzsqWqZwBjLkqGUmOb5yMizurorfX1PA4GqwcGHoVBwYOCJxyMBYJYYOT4+VlUVgLsuE0W5t/f++vrnmZnXDQ31lZVqR8f1goJix3EAHL+/IplMkfn5RHPzVUHId13mOE46rcdibwDY9HQsFnt7eHhsGGlCCACNRNoWFuL05ORXe/vN+vrw0tICIUI6nUkmU5ubB/v7O7u737a29jY2vpjmeX9/X01NaGLiFUjS5eLiunh8JRp9gFguy8Hy8sa8vKCihDWtTZaDlFa0tt5dXl7RtBZR9KPXW20YhqqW+Xy+7e09SZIcxyGEAIDruoIg2LalaX7Xdb5+/e71KijLIUKIZVmMMUmSOOc5eS/8RLQsCwAlycMYExCRMebxeAAgq1eWcs5izrkkSbn2D8SoM2ncwOKxAAAAAElFTkSuQmCC",
-    "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis"
-  },
-  {
-    "type": "link",
-    "addDate": 1716535333,
-    "title": "angular-smart-component-state (signals) - StackBlitz",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/klEQVQ4jV2TMWsUURSFv/NmshsliyFBiNFGEAzYJYKNtYVNCIra2fgDBAsLIZ2QNDaWYpNOg4htaguLxE5Io42QFYwS3Ki7m33vWLyd2V0HXjNzzzvf3HuuZjfjw1CEJ0TPgQUgEAAYG4JEMiCc38sU+plieqq5jfhLRWilmFIQgbHHhkLQjaZRDK8GkkmhCMExdYJEyylZIjhrnMWmDOaoZ5YXxMVZ0R1gINdmTSs4c0tDdIFsUwRx1DVXF+HxdTjomKmQxFitwTXyuHMh8ffEnGuJ17cDn75Du2OapSZqAULVsNpZohvNTAPe3BELM/DyYyY67meDcU05apgJEr1oygBba2JlUXz4aloNuLoomgXs/4B+zLUAmt+MNU5MJhm21gKrSxBTPoNkTjfEiz3zaMc0QtUJqAmwiYZnN8TqEvzpmzKIIkCjFO/2s7jQSDxBkGyahbg8D72YaZ7fFNcuiJ3P5t52ppsqRLLR/wRBoh/Nbht6A7g0ByuLYu/A3H9rBobpQsQxMZDDU41GEjON7P5gWbQ7cOuVOe5Pisc1dQ6q0fQGef5XzsLd7cS33+bU1KTzaFeGORhGGMAnKfh8S2y8h902nGmKmEbOVW2V4NKmUy2TRJgu4cuR6UeYbYpBGjW9cp5YpiTWLQ4nHCya9T/XMam/S8LiMIn1f3WhHRH2+uo2AAAAAElFTkSuQmCC",
-    "url": "https://stackblitz.com/edit/angular-rjwjeq?file=src%2Fapp%2Fapp.component.ts"
-  },
-  {
-    "type": "link",
-    "addDate": 1717147318,
-    "title": "@ngneat/elf - npm",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABJElEQVQ4jYWSPW4CQQyFP3uGREqEFImk5Ax0tBxgLwGn4CSchxKJvQF1qtAFIcLP2ilmmd1NAnHnN7af/eZJCQ4ChMCdqKpUFgEBB6uqO/WahqYGg4e3t+fx2M0AEamr3B0AUd2v16ftVoFSdQWbonB3czfvREY2RbGCUjWmgW51JYBI5hEwM0TcLKGRmrYTdji8z+fn3e5lMhlMp82De8zz6tXNRNXP54/F4stdjsfX2QyQK7n+HH7tj4NBDCH0++09k1w3haeqMGtE+6fhRtRHZx1xz0nGmy9xV7qMzS1/oxJTr6iKCFftpddzkQYHUU1EUv62hqqfTp/LpV0uj8Ph02iE2b4skzWkBJL5uuSaTdlKa/Ml34a2vd0xcxCRoErL3t85nLmIk9I1cQAAAABJRU5ErkJggg==",
-    "url": "https://www.npmjs.com/package/@ngneat/elf?activeTab=versions"
-  },
-  {
-    "type": "link",
-    "addDate": 1717147333,
-    "title": "rsm-signal-state-management - npm",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABJElEQVQ4jYWSPW4CQQyFP3uGREqEFImk5Ax0tBxgLwGn4CSchxKJvQF1qtAFIcLP2ilmmd1NAnHnN7af/eZJCQ4ChMCdqKpUFgEBB6uqO/WahqYGg4e3t+fx2M0AEamr3B0AUd2v16ftVoFSdQWbonB3czfvREY2RbGCUjWmgW51JYBI5hEwM0TcLKGRmrYTdji8z+fn3e5lMhlMp82De8zz6tXNRNXP54/F4stdjsfX2QyQK7n+HH7tj4NBDCH0++09k1w3haeqMGtE+6fhRtRHZx1xz0nGmy9xV7qMzS1/oxJTr6iKCFftpddzkQYHUU1EUv62hqqfTp/LpV0uj8Ph02iE2b4skzWkBJL5uuSaTdlKa/Ml34a2vd0xcxCRoErL3t85nLmIk9I1cQAAAABJRU5ErkJggg==",
-    "url": "https://www.npmjs.com/package/rsm-signal-state-management"
-  },
-  {
-    "type": "link",
-    "addDate": 1717745010,
-    "title": "Angular 14 + Prettier + Husky Setup - DEV Community",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACMklEQVQ4jZWSv09TURTHz7nvB7wX2w6gTDJISCQ0Qd9rhzJodWokkaSmdQD/AcrUvwQDCyaYyE6NRE20HZoUaEs7tYTaQmlSgoPVqukPWt579zg8Ak108U73fs/nDuecDzqcLvifwwYfRPRPaDC//sAYQ0REHORs9CokIpFzzjk3TdMwDFVVLcsiIkTgnGRZBgDTNEXxEpMkiT0Ph+OfP2Uz6ZcrK6Io6h7944f3mXR6b29X07RX6+uRSKTTaY+Njb2Nbc3NPWF3p6Y8Hs9xtbq8HIlGo/4HD/1+/9Hxcb1ebzS+jY/ffrG4QJxr2v1AIND80WQIcFgqhUOhrVhM1zVJlguFQjgUehYMfimV3m1vT05Ojt685fP5arVadn+fAYAsy4wxy7Qs0+p2u9PT07lc3v/oMQDkc3lFUbxe76xvtlAs/v7183JKnHMiIiCG2O/3T0/r5+ddUZKKBwfVk5PI0tLExJ14PA4AIhEZhgEAqqoKojCsKJXKUTAYBACH09VsNjPpzOLiQqfTyaSzTJAYMrw3M5NKpebnnyaTyV6vp+taKpXa2dl1u93ErXgiDgDlcqVcKSvKsDAyMoqIRPR6Y2N1da3VarlcLkDs9XqJRKLxvXF29lUQhDebm6XDwyFZxqFh5eLCIG4B0A2H0zCMfr9vb1VRVXtlnXZblCRFUYgIHU4XQwREu3XbDiJCRHsSiMgYIyK7KgIAJwKiK3lsc66Es9FrlwatHDTv78S+/wF72SshkV+RyAAAAABJRU5ErkJggg==",
-    "url": "https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm"
-  },
-  {
-    "type": "link",
-    "addDate": 1718175150,
-    "title": "LMS Optimizations - Google Sheets",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhUlEQVQ4je2TwQmDUBBE334swBIsItqIAY/WkA60A8tQsBObsINYgeMhCsGD+FXw4rsuOzPsMpY0aT6KCgjxwKA3owgkCt9lAEEkUTlBtB52WUuXtXt0QufrvOa0gL3qVMyxfYib98UJ/lnSLC5b3H/ER+D3xu+RMjE30pn0MegP7A9I5QTEeSThZqRUhQAAAABJRU5ErkJggg==",
-    "url": "https://docs.google.com/spreadsheets/d/1rUX6FTmQe9qO0zPf6QFUrGOI2GGS_f3hDFHWGIH9LfM/edit#gid=0"
-  },
-  {
     "type": "folder",
-    "addDate": 1709720102,
-    "lastModified": 1720000879,
+    "addDate": 1709720102695,
     "title": "Bookmarks bar",
     "children": [
       {
         "type": "link",
-        "addDate": 1709786065,
+        "addDate": 1709786065791,
         "title": "Inbox (3) - jerin.johnson@fingent.com - Fingent Technology Solutions Pvt Ltd Mail",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABo0lEQVQ4jcWQvWtTYRjFf8+9N6m9tViTYgk4RARDqoPFWIoUeq1udmjBTRendKz+AwlU16KjU93cpEsXKdw7SbEfZDF+EUhFSmlKqDRN1CT3cajGhCRSXXzH8/7Oec974H8f+Xj5QspH50A8n+/345l8/k+GikvUqluLgIOQNnw0DQyATvcEe92Ck3C6mQtOwtEPIRc4YpQ5o6WOGFE1xS1MjqbazDcTKTXF9ctWtEkesJYvJrn15mkLrKLp3RtXnXqgeg/ArAYWVWlr9vjwEjL5qKRn998z++oBkdoefSftZubXHo1X7aktisNfeVgaYbM6eBQAED7c5s67J1z78rrt78GxcezbdxHbpnrar32yeqzdyj4vci9/B/xc4dlzd2JLVFo2ODW/gBEeJBCLN7RsMUe5VqFlRIChlfU0dUZUG/UxhyLfArE4qrrxubSzly3mGA6dx7Z62wMAznhrGd83rwu6BOqZ0XNvO3EAVreLiLeaB2YA1DDWu3EdG/zNMVTw/tV8wgweyHFAVXWBfhG50qRtANvHDZgCkkCkST4AFn4AjfaVgq0OjrQAAAAASUVORK5CYII=",
+        "icon": "https://logo.clearbit.com/mail.google.com",
         "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"
       },
       {
-        "type": "link",
-        "addDate": 1709788845,
-        "title": "Employees - Fingent Hub",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACZklEQVQ4jY2Tv25cdRCFvzO/uxtLKLYDwmuKEIKEswQvcQNyh+QCqPMQES/AS/AGpM0DBFoXUBAQogLWf25iJXKQLLzG2M6iCNZ37xwKY4hIAdONZuY70ugc8a8y6GB5eUFte422fQGAUp4iPXh5a2sk8LP7erY5GQwuTZpmTdIimQdZyhFAtO2LRCzY3r/Q6XwxPxwePwf4ud9/TXAL6RHwbUpj7LO55LBngVXs1w23X6nrXYA4VxbcEnSUuQ0QmXNhvx32IDLnAJS5LbgQ9kcng8GlvwGTpllDegjcdSnTmaraW6zroUt5WOydxboezlTVnkuZSvrc0qNJ06wBaLS83KNpblq6F5lziii2b2DvuJSrZKbsx0hvSPoBwBFP3LarKuWzSm17zdKC7A8pZTZhx3AY0ooynyIl0krCrqRXBUu2f0OawV6qyOwJ5h3xje2LGXHf02mWUvZa6YMAC9azbQ/U7apMp78jjYH3yexV/xjAQnJnOm0dYWe2EWEkW8qOnWoapYQyC1IBqIgY2T7BviFpti3lImBnXkE6JDOB9xTx05mO+yGNDceSRpVLuU/TvGXpHpmziihkriB9Z/sKEZa9rcw+Ed9L2kUa07arRDyI3sbGCOkA6V0kpzTpdrt3enW97lK+Lplf9ep6vdvt3klpguTMfEdwuLC1ta9zI/3RNB8LOsDdjHgiW9hXi5QtPLbkvwx1E3t6WlWfXN7cPAqA+eHw2HDb0Fh6EyClcUo/NrCRZ19Hdt9wavj08ubm0X+FadTCrwAFXiKiZ3v/tJQvz4+fA5zH+Zfr13vYS/8nzn8CJDVfJhoL7XIAAAAASUVORK5CYII=",
-        "url": "https://hub.fingent.com/web#action=143&model=hr.employee.public&view_type=kanban&cids=1&menu_id=99"
+        "type": "folder",
+        "addDate": 1723447474366,
+        "title": "OP",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1710131925679,
+            "title": "Sign in | Open Project",
+            "icon": "https://logo.clearbit.com/openproject.fingent.net",
+            "url": "https://openproject.fingent.net/login?back_url=https%3A%2F%2Fopenproject.fingent.net%2Fnotifications"
+          },
+          {
+            "type": "link",
+            "addDate": 1718623949132,
+            "title": "Products | OpenProject",
+            "icon": "https://logo.clearbit.com/products.fingent.net",
+            "url": "https://products.fingent.net/login?back_url=https%3A%2F%2Fproducts.fingent.net%2F"
+          }
+        ]
       },
       {
         "type": "link",
-        "addDate": 1709795221,
+        "addDate": 1726027524734,
+        "title": "Attendance - Fingent Hub",
+        "icon": "https://logo.clearbit.com/hub.fingent.com",
+        "url": "https://hub.fingent.com/web#action=295&model=hr.attendance&view_type=list&cids=&menu_id=117"
+      },
+      {
+        "type": "link",
+        "addDate": 1709795221963,
         "title": "Home - InfinCE",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtElEQVQ4jdWSv2uTcRDGP3d5E5OKgoiIKdYkTV9LRFs0WtSCTg7i5uikk7MiCC5uDi4iuClu/QOcHJzU1PojiIhSkyalNKZzHaxJ+71z0Ja3Rf+APnBw8HDPPfdwsO0h642DdopxVVR2BrWFQ81mexNXGj2ihP0BWT7YbtQFbEOgW4onTXgKlBPKz/OtxqWlkZHYgkwhjCcWNwS9OtianZbv5fJxd30t8MWd2y5hAddTipT71n+YTmU+AzngBq4zphTV7S7IMTdOS6d0+BnCWE7C0b1zcz+S93WG45vAfVM/n1P9+HMlEwFotjcggRngXYT4pCNPtg7/xYTAVwns65kvp9K9P5mFDX5HBKiKr/0n4Qoin6KgddNwYSvvoqYIr9z9cjefH9hkvxiPOVTM/Y2nQ26w3XyxXtZfqSGMq4RIusOjJwyrAe9N/U7GbHaV1FlBHoD/UuSR4bdwvx7WstNRul8x/J7ASTeZEIDFUnxRhMfAgYSJmlrqCoBpmALOJLiWqV8bajZfbjzSfKGQTUXZc4rvNmN+qP3tQ+KRZLEUV1WloOZL3T273lbr9dV/5bYN8RuEebR0gQb/JAAAAABJRU5ErkJggg==",
+        "icon": "https://logo.clearbit.com/infince.fingent.com",
         "url": "https://infince.fingent.com/feed"
       },
       {
         "type": "link",
-        "addDate": 1709878430,
-        "title": "ChatGPT",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACvUlEQVQ4jVWTzSt0URzHv2fm3rkLoruxkT+AUGThJS9Z2IiNzQgbZTNIMjsrZS3iLujaEBuvGysvpciGyY7MKE0iUVOPGdM895zzfRZzr+b5LE+n7+/8Tt8PSJaTXCf5h6QiqaWU1FqTJJVSVEpRa01dPFQksySXSZaD5AqLaJJaKcWAXC7HUvwg7d8lyQ1BMg8gAgCe54VM08TFxQU2NzeRz+dRX1+PaDSK6upqVFZWAgBIUgihARQQTJdSkiQTiQS7u7t5e3vLdDrN1tZWtrS0MBqNMhaLMZPJ6JJ1CF2EJLm9vc26ujqenZ3x5uaGAwMDdF2XqVSK+XyerutydHSUUkodrBNSSgkhBHZ2dnB0dISmpiYUCgWcnJxgbm4OVVVVWFpaQiwWQ09PD0zTxMPDgwiFQiApjHA4DKUUjo+P4TgOHMeB53mwLAuXl5e4u7vDxMQEIpEI4vE4np+fUVZWBpIgiZD/KSCJiooKSCnx+fkJy7IwPT2Nvb09HBwcIJFIYHV1FZ2dnTg/P4cQohiglIJhGOjt7cX8/DwmJyfx+vqKZDIJ27bx8fGB5uZmmKYJ13WxsLCA09NTkEQ4HIYRJLW1tWFtbQ1fX18YGxvD9/c3+vv70djYCNu2UVNTg5eXF/z8/CASiUAIAaUUDAAQQiCbzaKrqwuzs7NYXFyEbduYmpqCZVm4urqCZVl4enpCPB7H8PDw79rQWmulFKWUemhoiFtbWywUCnx8fKTjOBwcHOT9/T339/dZW1vLw8PD31aS1CD5W4q3tzc9Pj7OkZERNjQ0sK+vj+/v77y+vmZHRweTySRJ0i+dJklBMgfAIhkSQggAyGQySKfT2N3dRSqVgmEYmJmZQXt7OzzPg2maGkX+guRGUOfSVgZks9n/ZPInB8atwNd52VdUBSGBxn5y6bOVr/46yfJ/SdKFYyceOEMAAAAASUVORK5CYII=",
-        "url": "https://chat.openai.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1710131925,
-        "title": "Sign in | Open Project",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACP0lEQVQ4jZWTTUuUYRSGr3OeZz51SLKS0VYFbdokFm36ok0f0EYwIrCswILAfxC8QYuQFtEmtMgKWlSLli1KEP9Am4iCqEWGRiNhjTIz7/s8p4UUKmV076/rnAP3cfxHuofHyhu2nfHf32DwxgDkH4wAtvnCg95cPn/LYtaHmajLv8/SpWtf7p5//C8BHUMTHaWCfy0u12MhfWZmLVF3XMRV0mZzv67DKkAxr71abO+xtHFldmywf278zKmYtoa10GaakyN/FyQJABaDWIwxqs5CoiSJmvh5ixkSLNMVgK4RRIAgPggiiuYgiSRJVI0ZIqYi6lcDiZKsOCEhesAsRiwYmHDoqgPZI+o1ElMB6D4xVo7VtkTF+g1yYCImzkQCWFnz5c7YWqqD1Mws70qVbmvWP4dW64AHiNXSqK90Xg712jvgk4A3sUURcxjOmosLiLSBFQUktpZeWshGv9w7/0EYmihW866GyKtZWzrM+MUUoGv44d4Mv6D+24yLG3eHRuPt1/vn5tb2RAFExGH28RfMsVsFhRc5wg1LK32uUJzUvDu5zAw4SBRMAFMAAwNZLtXAgOP5SNOwRYHUB1PNtSngADi0UyCJIPa7LJiJQRWAp09D1+DtLeoL7QaFzDfehsXahEWbBGAqCatuAKgOP3zkKptOZz/mpyF+BN3n2zduD/Xapdnxs2PrtHV5LdlxdDonsUfEDgrsUvWtrPHj+tydoZtgQiLK1NQfBaufaeBJaSszzNR95PlIc73Jv/ITu6X6ohu1mSQAAAAASUVORK5CYII=",
-        "url": "https://openproject.fingent.net/login?back_url=https%3A%2F%2Fopenproject.fingent.net%2Fnotifications"
-      },
-      {
-        "type": "link",
-        "addDate": 1716788109,
+        "addDate": 1716788109538,
         "title": "Projects · GitLab",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACd0lEQVQ4jW2TQY9UVRCFv1P39eue6YlkaHoM2BppaAd3JiQkSnSERBcG0Y1uMIGNDiTKD8BIxhD+ABsG16xYmUDYyF9w4YoYyEwIY5ywgXQyI9P9bhWLnict8SSVVE7Vrbq3bh0CBLB+cvH8o48HywA1N42ae3zynW83pvJMEAFm0k9m6QKAIF4t8JKz793SpRUwQRjAxonDH5bSARfv/vn+20d2q9tUdwNYO35wMcRi0/TWuaVDS7AbcIozTSnaycqZmdapV7vXaJTl6bZZ2TCFpeJrANv89PUFjC+2siuCAL68BUngU9f3W5BCfO7AdnYFOv3wg0MLWj9+ZHmmZasjPBOYhEfodxGVS5NhRoRQIcXRCAzwJpa2dvyHotOPs2x7jJ5OpolIraRj+s9HiACeexBOKMHMHo/WrH+jfHGQAe1siWd/S6MtRSrC60O7TwAgV2GNWWn+gEez7YDcwhkSRLPt7DvozHWCnJU8SDAxj0g5K811oNvPtOY8CEVkDQ24a2WycI1NxHzP2dvzkMB9YpLY28sx33NMEZ5VWWkGfsdSVJeqnXw/NVMJZM/Q7oS6fY+yIMqC6PY92p2QZwDl1EplteP3x7m6LIDt8703ymL2l9S0z3yUszsYJO9ONtieICeyEkoNszz226PxPxdmVzf+UoDqNR1fHPxo6IolVO2nsjcjRQAb5LSpwqtw4HK69uBqrQVNC0UQ4+XBJ+k9rWq/+nnoFUB6zQrfjHX/o/qucX3t3nS+1Y4gYgVr3Hjw2/MFX8rDfDu1rEhNK/Iw/2pd/6hxfe1erExE9H+CmyzdV6TazzcHV/LNwz//G1t5KbAaLwDgSB0zlEKSLwAAAABJRU5ErkJggg==",
+        "icon": "https://logo.clearbit.com/gitlab.fingent.net",
         "url": "https://gitlab.fingent.net/"
       },
       {
         "type": "link",
-        "addDate": 1716879070,
-        "title": "esbuild - Bundle Size Analyzer",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACjUlEQVQ4jX2TTWxUdRTFf/c/7810Xj+m0DCd6Y40gMFNGyBxqQEJKxIMGxZdC0YwqHEhBtqIiYlpahBIqboANsYFBGRTPlwaIu2MpQl2KlFXugLSCvP13vsfFzRk/ICb3M3NuYuT3znGv0bzbMPxJrATUQbA+BPjBilf2jbmO/X27PFbMn4zJyWOZCIiWkDaocoDTerAFJc5buN4ANM4jq0EbOIbCuyjBaqTmMMBhmGE4BskLkNAAVjlEiEH2ErsbBzvhznJevaxQvv2j6G3gEBgZLAnDdPcQijXTeA9nhXaFHiDNh+bIVRhu6/SVI3006M9aZgf0pkPu72WULOKxvb2q7CurNnprNcyiudItUCiBZqqsN3hOGR5crSwl4djGyh4vX+qz85ejMj1wshLMXEMY8fX2+z3OQV9uLSN6CKH4xCqUNMiPq2Q6hd066tQ5XJJuWhIp49F0h/o3Im8unqGVCyWNHsuKy0jLeBVpYYqNFRFquLjObyW0A/nQw1vLCrqLeuz97qlX9H5T/Ia2FBSsVjy353Oed1D6Tx1939MzUHGrV3Wjs6ergBpDb2w/1i4OdNh4aMXW/AVaugnvtbPSHfxV051+cHBks/3lHXmWCTdR5MfdCvqKas4WNL1mZzXMkruEKuGVGXGIabVJCaLln4L9HDV2eQ7K3prrE7rL6guhYQhXJh4qNdfbVmyis+EGE1ixIwBqMIXDPA2D2jfXgyDV0ZiJ48sgz15bLr3e8CO0dh8He+MhH6yrDBlo7z7NMq7yRFxiX720AA1SMyeE+V1wCOukrKfa6SdZcqyhRNeHHZ5ep9TpscYn/OACXuN5Bk5ga0RQncYJeQgYtc/6gw3SZi2HVQ70f8NTyxeEXcGlSEAAAAASUVORK5CYII=",
-        "url": "https://esbuild.github.io/analyze/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718623949,
-        "title": "Sign in | OpenProject",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACP0lEQVQ4jZWTTUuUYRSGr3OeZz51SLKS0VYFbdokFm36ok0f0EYwIrCswILAfxC8QYuQFtEmtMgKWlSLli1KEP9Am4iCqEWGRiNhjTIz7/s8p4UUKmV076/rnAP3cfxHuofHyhu2nfHf32DwxgDkH4wAtvnCg95cPn/LYtaHmajLv8/SpWtf7p5//C8BHUMTHaWCfy0u12MhfWZmLVF3XMRV0mZzv67DKkAxr71abO+xtHFldmywf278zKmYtoa10GaakyN/FyQJABaDWIwxqs5CoiSJmvh5ixkSLNMVgK4RRIAgPggiiuYgiSRJVI0ZIqYi6lcDiZKsOCEhesAsRiwYmHDoqgPZI+o1ElMB6D4xVo7VtkTF+g1yYCImzkQCWFnz5c7YWqqD1Mws70qVbmvWP4dW64AHiNXSqK90Xg712jvgk4A3sUURcxjOmosLiLSBFQUktpZeWshGv9w7/0EYmihW866GyKtZWzrM+MUUoGv44d4Mv6D+24yLG3eHRuPt1/vn5tb2RAFExGH28RfMsVsFhRc5wg1LK32uUJzUvDu5zAw4SBRMAFMAAwNZLtXAgOP5SNOwRYHUB1PNtSngADi0UyCJIPa7LJiJQRWAp09D1+DtLeoL7QaFzDfehsXahEWbBGAqCatuAKgOP3zkKptOZz/mpyF+BN3n2zduD/Xapdnxs2PrtHV5LdlxdDonsUfEDgrsUvWtrPHj+tydoZtgQiLK1NQfBaufaeBJaSszzNR95PlIc73Jv/ITu6X6ohu1mSQAAAAASUVORK5CYII=",
-        "url": "https://products.fingent.net/login?back_url=https%3A%2F%2Fproducts.fingent.net%2F"
-      },
-      {
-        "type": "link",
-        "addDate": 1719992259,
-        "title": "daily.dev | Where developers grow together",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC9UlEQVQ4jTXTT4hWVRyH8ef7O+feO+/7ak5NfxywMZBIqIQoJg2ckIKgXasgV4GYUKtMN9GqCBIyWkirtgXtKoqw1GymDMtNFEa4aiGCYzPj9P6795zza6EtnuVn+chxCfmZfauL0ZqjBfZnfK4YVXbIFJJQRl2RVhO+POxG7x+6MH/xlgXO79t4qYm9U0WaHZcpiULGbwdZUCQcw0JN674+TaNXX1656xMtPzl8nMrPS3EwKW1XjFgMcnbSbZzMheSdFzJKsrrq6IYZf9pKTMeDmsGkTJMHYpeKJhuF1l3JXNlc2WF0s9B2qBhx4tMkmxl0cMwK2j/x1j3IJsOi3o7guw7Voie6BF0CatjzSqNtu6JPJg7BbOpTz5SlmGHOrTAduXo7zRdP9hnsMGYfjfz0zog8cZbe6rOwVOG9sdZuwHiz4JUrS3NWjLpts5oFsffDAcWKfn7vJtsXAwvPBZ56s8f9SxVfHVtneKOw58XGq22QMhRRW3Y8B/yJd/s0d0vfvrbqv368ypdHrrPzQMUDz1Z8/cYqf3yzweUzm4S+a/fzlbKc4rh1cqYp8/f3Y+KM2PFMTbwz88jBAffuqfni+DV+P72ODTKzuwShcO1KS1cKWRAzhRIzv5z6h1wnf+iFLbrvsYaFfX0+P3qVy9/9S3NHZOfeAQ8e2MLlsyOuXMiumahMkSVIRWBbYeWD6/z26Ybfs7u5hU/fpNkaiL2K+Yf7/HluxF8/Tl2NUwQZWn22tHY1e9k+ymOflLEVx+OstHk9E3oBJ+ChQjPGZJTcg4TF4lYriWuW0LKFnlAoITRezDRcc4/9yl01hAZXoB3jHk1Y9KRQFGZUYNm8cGJKN4xxS0RNslB7VTe4Kik0jlWOBScEIHpWSBZ7sfV2qBxO2MGV2Uu55MNYWK/qrZViTx4ayRp3M2UzZQvKFuShVoiDytF6dj/89rnZS/p/54/2ry4qVq935KUszWWnKnIyIuMk8y7DjUL4oS3jkyfOzl8E13/rtpfSiYa78AAAAABJRU5ErkJggg==",
-        "url": "https://app.daily.dev/posts/7-modern-html-features-you-should-know-yzcc3vhsu"
-      },
-      {
-        "type": "link",
-        "addDate": 1720000879,
-        "title": "daily.dev | Where developers grow together",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC9UlEQVQ4jTXTT4hWVRyH8ef7O+feO+/7ak5NfxywMZBIqIQoJg2ckIKgXasgV4GYUKtMN9GqCBIyWkirtgXtKoqw1GymDMtNFEa4aiGCYzPj9P6795zza6EtnuVn+chxCfmZfauL0ZqjBfZnfK4YVXbIFJJQRl2RVhO+POxG7x+6MH/xlgXO79t4qYm9U0WaHZcpiULGbwdZUCQcw0JN674+TaNXX1656xMtPzl8nMrPS3EwKW1XjFgMcnbSbZzMheSdFzJKsrrq6IYZf9pKTMeDmsGkTJMHYpeKJhuF1l3JXNlc2WF0s9B2qBhx4tMkmxl0cMwK2j/x1j3IJsOi3o7guw7Voie6BF0CatjzSqNtu6JPJg7BbOpTz5SlmGHOrTAduXo7zRdP9hnsMGYfjfz0zog8cZbe6rOwVOG9sdZuwHiz4JUrS3NWjLpts5oFsffDAcWKfn7vJtsXAwvPBZ56s8f9SxVfHVtneKOw58XGq22QMhRRW3Y8B/yJd/s0d0vfvrbqv368ypdHrrPzQMUDz1Z8/cYqf3yzweUzm4S+a/fzlbKc4rh1cqYp8/f3Y+KM2PFMTbwz88jBAffuqfni+DV+P72ODTKzuwShcO1KS1cKWRAzhRIzv5z6h1wnf+iFLbrvsYaFfX0+P3qVy9/9S3NHZOfeAQ8e2MLlsyOuXMiumahMkSVIRWBbYeWD6/z26Ybfs7u5hU/fpNkaiL2K+Yf7/HluxF8/Tl2NUwQZWn22tHY1e9k+ymOflLEVx+OstHk9E3oBJ+ChQjPGZJTcg4TF4lYriWuW0LKFnlAoITRezDRcc4/9yl01hAZXoB3jHk1Y9KRQFGZUYNm8cGJKN4xxS0RNslB7VTe4Kik0jlWOBScEIHpWSBZ7sfV2qBxO2MGV2Uu55MNYWK/qrZViTx4ayRp3M2UzZQvKFuShVoiDytF6dj/89rnZS/p/54/2ry4qVq935KUszWWnKnIyIuMk8y7DjUL4oS3jkyfOzl8E13/rtpfSiYa78AAAAABJRU5ErkJggg==",
-        "url": "https://app.daily.dev/"
+        "addDate": 1709878430966,
+        "title": "ChatGPT",
+        "icon": "https://logo.clearbit.com/chat.openai.com",
+        "url": "https://chat.openai.com/"
       },
       {
         "type": "folder",
-        "addDate": 1709725709,
-        "lastModified": 1709878430,
+        "addDate": 1723447513496,
+        "title": "Tools",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1716879070549,
+            "title": "esbuild - Bundle Size Analyzer",
+            "icon": "https://logo.clearbit.com/esbuild.github.io",
+            "url": "https://esbuild.github.io/analyze/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720000879818,
+            "title": "daily.dev | Where developers grow together",
+            "icon": "https://logo.clearbit.com/app.daily.dev",
+            "url": "https://app.daily.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723447420860,
+            "title": "Tailwind - Login Form Generator",
+            "icon": "https://logo.clearbit.com/tailwind-generator.com",
+            "url": "https://tailwind-generator.com/login-form-generator/generator"
+          },
+          {
+            "type": "link",
+            "addDate": 1723631084754,
+            "title": "powercat.fingent.net/components",
+            "icon": "https://logo.clearbit.com/powercat.fingent.net",
+            "url": "https://powercat.fingent.net/components"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1709725709214,
         "title": "PPJ",
         "children": [
           {
             "type": "link",
-            "addDate": 1709725689,
+            "addDate": 1709725689037,
             "title": "PPJ / PPJ CP · GitLab",
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACd0lEQVQ4jW2TQY9UVRCFv1P39eue6YlkaHoM2BppaAd3JiQkSnSERBcG0Y1uMIGNDiTKD8BIxhD+ABsG16xYmUDYyF9w4YoYyEwIY5ywgXQyI9P9bhWLnict8SSVVE7Vrbq3bh0CBLB+cvH8o48HywA1N42ae3zynW83pvJMEAFm0k9m6QKAIF4t8JKz793SpRUwQRjAxonDH5bSARfv/vn+20d2q9tUdwNYO35wMcRi0/TWuaVDS7AbcIozTSnaycqZmdapV7vXaJTl6bZZ2TCFpeJrANv89PUFjC+2siuCAL68BUngU9f3W5BCfO7AdnYFOv3wg0MLWj9+ZHmmZasjPBOYhEfodxGVS5NhRoRQIcXRCAzwJpa2dvyHotOPs2x7jJ5OpolIraRj+s9HiACeexBOKMHMHo/WrH+jfHGQAe1siWd/S6MtRSrC60O7TwAgV2GNWWn+gEez7YDcwhkSRLPt7DvozHWCnJU8SDAxj0g5K811oNvPtOY8CEVkDQ24a2WycI1NxHzP2dvzkMB9YpLY28sx33NMEZ5VWWkGfsdSVJeqnXw/NVMJZM/Q7oS6fY+yIMqC6PY92p2QZwDl1EplteP3x7m6LIDt8703ymL2l9S0z3yUszsYJO9ONtieICeyEkoNszz226PxPxdmVzf+UoDqNR1fHPxo6IolVO2nsjcjRQAb5LSpwqtw4HK69uBqrQVNC0UQ4+XBJ+k9rWq/+nnoFUB6zQrfjHX/o/qucX3t3nS+1Y4gYgVr3Hjw2/MFX8rDfDu1rEhNK/Iw/2pd/6hxfe1erExE9H+CmyzdV6TazzcHV/LNwz//G1t5KbAaLwDgSB0zlEKSLwAAAABJRU5ErkJggg==",
+            "icon": "https://logo.clearbit.com/gitlab.fingent.net",
             "url": "https://gitlab.fingent.net/ppj/PPJ-CP"
           },
           {
             "type": "link",
-            "addDate": 1709792042,
+            "addDate": 1709792042565,
             "title": "Swagger UI",
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADK0lEQVQ4jXVT32ubZRg9z/N+X77EmKRp+ktbW5bCps02jStuKOooKBYmbIKieDP8UQTFK4f4D4igY+D0aqvojSBOYeyiK3NFJoqT2cpwP6XS2k6bpmmzxCTf973f+z5edHVF8Ll6Lg7nHDjnEP577uiezDbzStegHsn0mB4BUFtSS+VZd6p6TR2HnvhxM5xuv8+qVKH27tBe/82dT/vxu+5rwY0JBIAJCX9eSeCXU/Hg6lTiw/qV0+8AMBsEDAw5XcN9XzxxqLG/uK8qyhPjV1mJ3FIhwEtZYzSpmVNt9M3h5MnlC4vPAZcjBUCS24rvjb7dfGn3C6thvay4dM1V8Yz8600s4WbJYSKRwd1NHUu6hblLHemwMjuh4O67f/j5xrGRN9YoqJM6/X4b/zHtyda9LYKA6JbHyQ/asDDj0UAx4N7tgV2Zc4dvzBQmODcUvFY84HvEVpo3FZVnY/LoqzViBVhLsIZADHr4YB03Lnlo1hSRsvLgM77bXojGnGy/ebwjH4jR4FjCQvuEVKeRWMKS45IAADsi7XdHgAhinoXRxJ35QHL90SNOssPkHdeSjQhnj2aov+hj8WIMxhCUEhIhgCAEob4doZw52obRQ2vkuJaSHaafAchGoGGLBYCIQAiAgAQkIhYEhuiQoFubkheQ06yo+UjzVi9p5am31ujTl7sw8noNiayBROtgdkRaVcaZw1kcHC+BHUgUMhoVXuDKvPP9yu8eKU+sDhhgUPUvRbrF8P9m8htMYYupvqLIjQtFIUPFxK7MeVSZd8/x6nWMT38dNxIxJdJWBnYFcv7zO0UMoBwRpUSsAc4dS0vnoEYiY0Uipumv4nr1Mh9XiGYXqtV7O1Pdak/+oYbu3R6qvp0hXG9T0YWQG9BUeLJl090m+unLdve78Ts+0uXJTxQACitD35YW+TEv5eT7dvg2mRVrNXijxsxAbktklAu+cCLrnD2SPFn9dXEMKItal7ium0HPifmfU/cs/+Y9oDzieMYQCGQtkfaZZs8neerjdPjDZ8kjaxcnx4BytO7t9irX48yN7m/vxYu5Lf6udLfpAYB6SS0t/8+c/wFRaHx2yic84wAAAABJRU5ErkJggg==",
+            "icon": "https://logo.clearbit.com/ppj-dev-api.fingent.net",
             "url": "https://ppj-dev-api.fingent.net/swagger/index.html"
           },
           {
             "type": "link",
-            "addDate": 1709793774,
+            "addDate": 1709793774933,
             "title": "PPJ - Module wise API - Google Sheets",
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhUlEQVQ4je2TwQmDUBBE334swBIsItqIAY/WkA60A8tQsBObsINYgeMhCsGD+FXw4rsuOzPsMpY0aT6KCgjxwKA3owgkCt9lAEEkUTlBtB52WUuXtXt0QufrvOa0gL3qVMyxfYib98UJ/lnSLC5b3H/ER+D3xu+RMjE30pn0MegP7A9I5QTEeSThZqRUhQAAAABJRU5ErkJggg==",
+            "icon": "https://logo.clearbit.com/docs.google.com",
             "url": "https://docs.google.com/spreadsheets/d/1WG4W7LXw2Dlaov7EiT4bNf02L0oOCVHZvCp9wP2zvII/edit?pli=1#gid=1643142165"
           },
           {
             "type": "link",
-            "addDate": 1709812764,
+            "addDate": 1709812764396,
             "title": "premierprivatejets – Figma",
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACb0lEQVQ4jXWTzWtcVRjGf8977kzunSSTMQnaVNQihYKIm9gBN67UtIsK/gmCiKXoTsHduBSXRWjcuRD82rUBXXTXVUhWuhLcuLDYSju505ncuR/ndZHJkJT4rg6H83vPc57nPeKM8qur3Uez9erFq/N93fwuf/qsABwk8MdXzl1ot1rbUWy6O1iipQtvoiRxooNpj7K5oZvf/nnM2PxWMGu1tjupvQNaC2ItkVYVtIpsDbFGlm0R7GuHOWczGc4mKdA/LL2MTlNFvHaiR49Ej+5qKIoSuMy1a6nA5w0cxD4FaDdrW9uoCdTIa1MIhmSKVSDL2o20x+3bhc+ebyfMiN3ir/fH0+L7ynqxUo+p9aCYDGnqgycL3ZJ89FP447frgnjMJUewA+Lz4O2XU9aXbGyyqKTi4d1X/37v7sUXvvJo/Qch7eYTnB3NmbmCAW6v9JpvznV4a+qLVrHMhOXWzouXvhyudN7ILfWVZ9g6n/ktBn7aRJBvbJK6h8ujktLMo5rItOPdxGI/GVEmcpoRpcPrbJCC/EQD1/19CpfvLi/QtkYKMpbGGhJtnx5tIKhLG7HLfQrw0yYOUOz9rg9GT/hhkpX1JJtymE6rjWF1vR7xozsP4gE/R3SDgeJRiLMocI5c+fej5/Xw2e2VfPGKScGd/HH/s3VE9dyvvvjPlsZnjjKO+GKgzrv2i9a7b1ePhrWSJHhd5WV9/iU2P8yRHD+SjeSnYkQ4e2RA34fjKsQgRYvEhLKV13PgBPhUCog7FG52j+W0hXC6C8Hl93jt0wk+U3pG2fFPYjCIh1X9iR+Md3BKH07uHJo+nk3M/9Z/UzUR5ZpQ8HkAAAAASUVORK5CYII=",
+            "icon": "https://logo.clearbit.com/www.figma.com",
             "url": "https://www.figma.com/file/j8T4mGE5lvXiJIjKhQLfKD/premierprivatejets?type=design&node-id=6636-1230&mode=design&t=Fj8dStlaZta0Hrj3-0"
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1724147299380,
+        "title": "RTR",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724147280970,
+            "title": "RTR - SS - RTR Wireframes",
+            "icon": "https://logo.clearbit.com/www.figma.com",
+            "url": "https://www.figma.com/proto/BfWVJzVIJyZnMlAeUptsFs/RTR-Wireframes?node-id=1282-839&t=1H5NcKe8t3xqFrUp-1&scaling=scale-down-width&content-scaling=fixed&page-id=552%3A1274&starting-point-node-id=1282%3A839"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1724902158677,
+        "title": "(20+) Angular posts on daily.dev",
+        "icon": "https://logo.clearbit.com/app.daily.dev",
+        "url": "https://app.daily.dev/squads/angulardev"
+      },
+      {
+        "type": "link",
+        "addDate": 1725865010247,
+        "title": "Learn Next.js: Getting Started | Next.js",
+        "icon": "https://logo.clearbit.com/nextjs.org",
+        "url": "https://nextjs.org/learn/dashboard-app/getting-started"
       }
     ]
   },
   {
     "type": "folder",
-    "addDate": 1709725709,
-    "lastModified": 1709725709,
-    "title": "New folder"
+    "addDate": 1709720102695,
+    "title": "Other bookmarks",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1713259746946,
+        "title": "Explore the different Power BI elements - Training | Microsoft Learn",
+        "icon": "https://logo.clearbit.com/learn.microsoft.com",
+        "url": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/3-explore-different-power-bi-elements"
+      },
+      {
+        "type": "link",
+        "addDate": 1713410824532,
+        "title": "Quick Start – React",
+        "icon": "https://logo.clearbit.com/react.dev",
+        "url": "https://react.dev/learn"
+      },
+      {
+        "type": "link",
+        "addDate": 1713517179423,
+        "title": "AI Detector - Undetectable AI Humanizer - Bypass AI | HIX Bypass",
+        "icon": "https://logo.clearbit.com/bypass.hix.ai",
+        "url": "https://bypass.hix.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713848116193,
+        "title": "Integrating Stripe Payment Gateway In Angular | Stripe Payment Checkout Example | by Abhinav Akhil | Medium",
+        "icon": "https://logo.clearbit.com/akhilabhinav.medium.com",
+        "url": "https://akhilabhinav.medium.com/integrating-stripe-payment-gateway-in-angular-stripe-payment-checkout-example-502776d5eb07"
+      },
+      {
+        "type": "link",
+        "addDate": 1714992403709,
+        "title": "Basic JavaScript: Access Multi-Dimensional Arrays With Indexes | freeCodeCamp.org",
+        "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes"
+      },
+      {
+        "type": "link",
+        "addDate": 1715140799458,
+        "title": "Legacy JavaScript Algorithms and Data Structures Certification | freeCodeCamp.org",
+        "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript"
+      },
+      {
+        "type": "link",
+        "addDate": 1715144006381,
+        "title": "20 Senior Angular Developer Interview Questions | EPAM Anywhere",
+        "icon": "https://logo.clearbit.com/anywhere.epam.com",
+        "url": "https://anywhere.epam.com/en/blog/senior-angular-developer-interview-questions"
+      },
+      {
+        "type": "link",
+        "addDate": 1715144128333,
+        "title": "Technical Interview Guide for Busy Engineers | Tech Interview Handbook",
+        "icon": "https://logo.clearbit.com/www.techinterviewhandbook.org",
+        "url": "https://www.techinterviewhandbook.org/"
+      },
+      {
+        "type": "link",
+        "addDate": 1715144157558,
+        "title": "Angular Developer Roadmap: Learn to become a Angular developer",
+        "icon": "https://logo.clearbit.com/roadmap.sh",
+        "url": "https://roadmap.sh/angular"
+      },
+      {
+        "type": "link",
+        "addDate": 1715230184775,
+        "title": "Angular Update Guide",
+        "icon": "https://logo.clearbit.com/update.angular.io",
+        "url": "https://update.angular.io/?l=3&v=12.0-17.0"
+      },
+      {
+        "type": "link",
+        "addDate": 1715246569667,
+        "title": "Managing Packages with NPM - Manage npm Dependencies By Understanding Semantic Versioning | Learn | freeCodeCamp.org",
+        "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+        "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning"
+      },
+      {
+        "type": "link",
+        "addDate": 1715254123131,
+        "title": "Simple Browser - boilerplate-express - Gitpod Code",
+        "icon": "https://logo.clearbit.com/freecodecam-boilerplate-2f2jynifh1q.ws-us110.gitpod.io",
+        "url": "https://freecodecam-boilerplate-2f2jynifh1q.ws-us110.gitpod.io/"
+      },
+      {
+        "type": "link",
+        "addDate": 1715326673209,
+        "title": "Back End Development and APIs Certification | freeCodeCamp.org",
+        "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+        "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis"
+      },
+      {
+        "type": "link",
+        "addDate": 1716535333034,
+        "title": "angular-smart-component-state (signals) - StackBlitz",
+        "icon": "https://logo.clearbit.com/stackblitz.com",
+        "url": "https://stackblitz.com/edit/angular-rjwjeq?file=src%2Fapp%2Fapp.component.ts"
+      },
+      {
+        "type": "link",
+        "addDate": 1717147318098,
+        "title": "@ngneat/elf - npm",
+        "icon": "https://logo.clearbit.com/www.npmjs.com",
+        "url": "https://www.npmjs.com/package/@ngneat/elf?activeTab=versions"
+      },
+      {
+        "type": "link",
+        "addDate": 1717147333818,
+        "title": "rsm-signal-state-management - npm",
+        "icon": "https://logo.clearbit.com/www.npmjs.com",
+        "url": "https://www.npmjs.com/package/rsm-signal-state-management"
+      },
+      {
+        "type": "link",
+        "addDate": 1717745010240,
+        "title": "Angular 14 + Prettier + Husky Setup - DEV Community",
+        "icon": "https://logo.clearbit.com/dev.to",
+        "url": "https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm"
+      },
+      {
+        "type": "link",
+        "addDate": 1718175150491,
+        "title": "LMS Optimizations - Google Sheets",
+        "icon": "https://logo.clearbit.com/docs.google.com",
+        "url": "https://docs.google.com/spreadsheets/d/1rUX6FTmQe9qO0zPf6QFUrGOI2GGS_f3hDFHWGIH9LfM/edit#gid=0"
+      },
+      {
+        "type": "link",
+        "addDate": 1724053274049,
+        "title": "NextJS Tutorial - All 12 Concepts You Need to Know - YouTube",
+        "icon": "https://logo.clearbit.com/www.youtube.com",
+        "url": "https://www.youtube.com/watch?v=vwSlYG7hFk0&t=29s"
+      },
+      {
+        "type": "link",
+        "addDate": 1720416500263,
+        "title": "15 amazing things you can do with simple JavaScript 🤯 - DEV Community",
+        "icon": "https://logo.clearbit.com/dev.to",
+        "url": "https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88?ref=dailydev"
+      },
+      {
+        "type": "link",
+        "addDate": 1720422427504,
+        "title": "The Dark Side of 'Foreach()' : Why You Should Think Twice Before Using It | Appsmith Community Portal",
+        "icon": "https://logo.clearbit.com/community.appsmith.com",
+        "url": "https://community.appsmith.com/content/blog/dark-side-foreach-why-you-should-think-twice-using-it?ref=dailydev"
+      },
+      {
+        "type": "link",
+        "addDate": 1720518822425,
+        "title": "301 Toggle switches: CSS & Tailwind",
+        "icon": "https://logo.clearbit.com/uiverse.io",
+        "url": "https://uiverse.io/switches"
+      },
+      {
+        "type": "link",
+        "addDate": 1720589351007,
+        "title": "How to Create Reusable Dialog in Angular With CDK, Formly and Tailwind | DevFM",
+        "icon": "https://logo.clearbit.com/devfm.blog",
+        "url": "https://devfm.blog/javascript/create-a-reusable-dialog-in-angular-with-cdk-ngx-formly-and-tailwind?ref=dailydev"
+      },
+      {
+        "type": "link",
+        "addDate": 1720674671405,
+        "title": "Beautiful Charts - shadcn/ui",
+        "icon": "https://logo.clearbit.com/ui.shadcn.com",
+        "url": "https://ui.shadcn.com/charts"
+      },
+      {
+        "type": "link",
+        "addDate": 1721115379007,
+        "title": "Builder.io - AI-Powered Figma to Code (React, Vue, Tailwind, & more) | Figma",
+        "icon": "https://logo.clearbit.com/www.figma.com",
+        "url": "https://www.figma.com/community/plugin/747985167520967365/builder-io-ai-powered-figma-to-code-react-vue-tailwind-more"
+      },
+      {
+        "type": "link",
+        "addDate": 1721122873407,
+        "title": "15 Time-Saving Websites Every Developer Needs | JavaScript in Plain English",
+        "icon": "https://logo.clearbit.com/javascript.plainenglish.io",
+        "url": "https://javascript.plainenglish.io/15-time-saving-websites-every-developer-needs-cf76ea19e430"
+      },
+      {
+        "type": "link",
+        "addDate": 1721277725811,
+        "title": "Get the screen width & height without JavaScript",
+        "icon": "https://logo.clearbit.com/css-tip.com",
+        "url": "https://css-tip.com/screen-dimension/?ref=dailydev"
+      },
+      {
+        "type": "link",
+        "addDate": 1721977996969,
+        "title": "The New Stack | DevOps, Open Source, and Cloud Native News",
+        "icon": "https://logo.clearbit.com/thenewstack.io",
+        "url": "https://thenewstack.io/"
+      },
+      {
+        "type": "link",
+        "addDate": 1722494744013,
+        "title": "Optimizing Angular Performance with HttpInterceptor Caching",
+        "icon": "https://logo.clearbit.com/blog.openreplay.com",
+        "url": "https://blog.openreplay.com/optimizing-angular-performance-with-httpinterceptor-caching/?ref=dailydev"
+      },
+      {
+        "type": "link",
+        "addDate": 1722927801656,
+        "title": "Signals vs. ngOnChanges for better Angular state management - LogRocket Blog",
+        "icon": "https://logo.clearbit.com/blog.logrocket.com",
+        "url": "https://blog.logrocket.com/signals-vs-ngonchanges-angular-state-management/?ref=dailydev"
+      },
+      {
+        "type": "link",
+        "addDate": 1724297879363,
+        "title": "Browser Based Encryption - JSFiddle - Code Playground",
+        "icon": "https://logo.clearbit.com/jsfiddle.net",
+        "url": "https://jsfiddle.net/TokenEx/pdx9qLqh/"
+      },
+      {
+        "type": "link",
+        "addDate": 1724734814797,
+        "title": "Tokenize",
+        "icon": "https://logo.clearbit.com/docs.tokenex.com",
+        "url": "https://docs.tokenex.com/reference/pci_token_servicesv2_tokenize"
+      },
+      {
+        "type": "link",
+        "addDate": 1724750884596,
+        "title": "Server-Side Iframe Demo | C# Online Compiler | .NET Fiddle",
+        "icon": "https://logo.clearbit.com/dotnetfiddle.net",
+        "url": "https://dotnetfiddle.net/bsByKO"
+      },
+      {
+        "type": "link",
+        "addDate": 1724835298047,
+        "title": "Guide - Pintree",
+        "icon": "https://logo.clearbit.com/pintree.io",
+        "url": "https://pintree.io/guide.html#"
+      },
+      {
+        "type": "link",
+        "addDate": 1724839884725,
+        "title": "🏨 Hotel Details Form",
+        "icon": "https://logo.clearbit.com/openui.fly.dev",
+        "url": "https://openui.fly.dev/ai/03-cywANlk7yiwMUfYwXY"
+      }
+    ]
   }
 ]
