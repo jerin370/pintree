@@ -54,13 +54,6 @@
         "url": "https://gitlab.fingent.net/"
       },
       {
-        "type": "link",
-        "addDate": 1709878430966,
-        "title": "ChatGPT",
-        "icon": "https://logo.clearbit.com/chat.openai.com",
-        "url": "https://chat.openai.com/"
-      },
-      {
         "type": "folder",
         "addDate": 1723447513496,
         "title": "Tools",
@@ -92,6 +85,34 @@
             "title": "powercat.fingent.net/components",
             "icon": "https://logo.clearbit.com/powercat.fingent.net",
             "url": "https://powercat.fingent.net/components"
+          },
+          {
+            "type": "link",
+            "addDate": 1728554671241,
+            "title": "bolt.new/~/sb1-mkx43b",
+            "icon": "https://logo.clearbit.com/bolt.new",
+            "url": "https://bolt.new/~/sb1-mkx43b"
+          },
+          {
+            "type": "link",
+            "addDate": 1728454934140,
+            "title": "NextAuth Token Setup - v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/chat/tCB6hiHZ2st"
+          },
+          {
+            "type": "link",
+            "addDate": 1724902158677,
+            "title": "(20+) Angular posts on daily.dev",
+            "icon": "https://logo.clearbit.com/app.daily.dev",
+            "url": "https://app.daily.dev/squads/angulardev"
+          },
+          {
+            "type": "link",
+            "addDate": 1709878430966,
+            "title": "ChatGPT",
+            "icon": "https://logo.clearbit.com/chat.openai.com",
+            "url": "https://chat.openai.com/"
           }
         ]
       },
@@ -145,18 +166,66 @@
         ]
       },
       {
-        "type": "link",
-        "addDate": 1724902158677,
-        "title": "(20+) Angular posts on daily.dev",
-        "icon": "https://logo.clearbit.com/app.daily.dev",
-        "url": "https://app.daily.dev/squads/angulardev"
+        "type": "folder",
+        "addDate": 1728878235574,
+        "title": "Tools",
+        "children": []
       },
       {
-        "type": "link",
-        "addDate": 1725865010247,
-        "title": "Learn Next.js: Getting Started | Next.js",
-        "icon": "https://logo.clearbit.com/nextjs.org",
-        "url": "https://nextjs.org/learn/dashboard-app/getting-started"
+        "type": "folder",
+        "addDate": 1728878265262,
+        "title": "Bubble",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727762322772,
+            "title": "Learn to Build an AI app with Bubble | Bubble",
+            "icon": "https://logo.clearbit.com/bubble.io",
+            "url": "https://bubble.io/video/learn-to-build-an-ai-app-with-bubble-1718115351731x796640131374121000"
+          },
+          {
+            "type": "link",
+            "addDate": 1727772842303,
+            "title": "Jrndjohnson | Bubble Editor",
+            "icon": "https://logo.clearbit.com/bubble.io",
+            "url": "https://bubble.io/page?id=jrndjohnson&tab=tabs-1&name=index&type=page&version=test"
+          },
+          {
+            "type": "link",
+            "addDate": 1727939299176,
+            "title": "Learn How to Setup Webhooks 3 Examples - Bubble.io Tutorial - YouTube",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=OPtpw6nSlj0"
+          },
+          {
+            "type": "link",
+            "addDate": 1728462163591,
+            "title": "🔌 Step by Step Guide: Create a custom Bubble plugin - Tips - Bubble Forum",
+            "icon": "https://logo.clearbit.com/forum.bubble.io",
+            "url": "https://forum.bubble.io/t/step-by-step-guide-create-a-custom-bubble-plugin/199740"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1728878288335,
+        "title": "NextJs",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1725865010247,
+            "title": "Learn Next.js: Getting Started | Next.js",
+            "icon": "https://logo.clearbit.com/nextjs.org",
+            "url": "https://nextjs.org/learn/dashboard-app/getting-started"
+          },
+          {
+            "type": "link",
+            "addDate": 1726055799586,
+            "title": "nextjs-dashboard – Deployments – Vercel",
+            "icon": "https://logo.clearbit.com/vercel.com",
+            "url": "https://vercel.com/jerins-projects-f0370e2d/nextjs-dashboard/deployments"
+          }
+        ]
       }
     ]
   },
