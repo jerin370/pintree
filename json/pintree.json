@@ -102,17 +102,66 @@
           },
           {
             "type": "link",
-            "addDate": 1724902158677,
-            "title": "(20+) Angular posts on daily.dev",
-            "icon": "https://logo.clearbit.com/app.daily.dev",
-            "url": "https://app.daily.dev/squads/angulardev"
-          },
-          {
-            "type": "link",
             "addDate": 1709878430966,
             "title": "ChatGPT",
             "icon": "https://logo.clearbit.com/chat.openai.com",
             "url": "https://chat.openai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728968848308,
+            "title": "AI Valley | Discover The Newest AI Tools And Prompts For Any Use In Seconds",
+            "icon": "https://logo.clearbit.com/aivalley.ai",
+            "url": "https://aivalley.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729234757976,
+            "title": "8 Frontend Tools to Become a Better Developer | by Mohit Vaswani | Medium",
+            "icon": "https://logo.clearbit.com/medium.com",
+            "url": "https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253"
+          },
+          {
+            "type": "link",
+            "addDate": 1729754348697,
+            "title": "Gammas - Gamma",
+            "icon": "https://logo.clearbit.com/gamma.app",
+            "url": "https://gamma.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730098266921,
+            "title": "Edit PDF - TinyWow",
+            "icon": "https://logo.clearbit.com/tinywow.com",
+            "url": "https://tinywow.com/pdf/edit"
+          },
+          {
+            "type": "link",
+            "addDate": 1730099013165,
+            "title": "5354 UI elements: CSS & Tailwind",
+            "icon": "https://logo.clearbit.com/uiverse.io",
+            "url": "https://uiverse.io/elements"
+          },
+          {
+            "type": "link",
+            "addDate": 1730114901910,
+            "title": "TailGrids React - Tailwind CSS React UI Component Library | TailGrids",
+            "icon": "https://logo.clearbit.com/tailgrids.com",
+            "url": "https://tailgrids.com/react"
+          },
+          {
+            "type": "link",
+            "addDate": 1730442341501,
+            "title": "raidendotai/cofounder: ai-generated apps , full stack + generative UI",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/raidendotai/cofounder"
+          },
+          {
+            "type": "link",
+            "addDate": 1730703565016,
+            "title": "Best Practices - Framer ground",
+            "icon": "https://logo.clearbit.com/ground.bossadizenith.me",
+            "url": "https://ground.bossadizenith.me/docs/contributing/best-practices"
           }
         ]
       },
@@ -167,12 +216,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1728878235574,
-        "title": "Tools",
-        "children": []
-      },
-      {
-        "type": "folder",
         "addDate": 1728878265262,
         "title": "Bubble",
         "children": [
@@ -203,6 +246,20 @@
             "title": "🔌 Step by Step Guide: Create a custom Bubble plugin - Tips - Bubble Forum",
             "icon": "https://logo.clearbit.com/forum.bubble.io",
             "url": "https://forum.bubble.io/t/step-by-step-guide-create-a-custom-bubble-plugin/199740"
+          },
+          {
+            "type": "link",
+            "addDate": 1729232364315,
+            "title": "Simple \"else\" Statements in Bubble - Tips - Bubble Forum",
+            "icon": "https://logo.clearbit.com/forum.bubble.io",
+            "url": "https://forum.bubble.io/t/simple-else-statements-in-bubble/344046"
+          },
+          {
+            "type": "link",
+            "addDate": 1729482356944,
+            "title": "Bubbleio-Building-Web-Apps-Without-Code - Google Slides",
+            "icon": "https://logo.clearbit.com/docs.google.com",
+            "url": "https://docs.google.com/presentation/d/1cdNIaq5WdwBs8OSrFiSpSMgVc0KEtGV8IyfzFs6_TQk/edit#slide=id.p1"
           }
         ]
       },
@@ -224,6 +281,27 @@
             "title": "nextjs-dashboard – Deployments – Vercel",
             "icon": "https://logo.clearbit.com/vercel.com",
             "url": "https://vercel.com/jerins-projects-f0370e2d/nextjs-dashboard/deployments"
+          },
+          {
+            "type": "link",
+            "addDate": 1729233988302,
+            "title": "Forms",
+            "icon": "https://logo.clearbit.com/ui.shadcn.com",
+            "url": "https://ui.shadcn.com/examples/forms/display"
+          },
+          {
+            "type": "link",
+            "addDate": 1729660562242,
+            "title": "101 React Tips & Tricks For Beginners To Experts ✨ - DEV Community",
+            "icon": "https://logo.clearbit.com/dev.to",
+            "url": "https://dev.to/_ndeyefatoudiop/101-react-tips-tricks-for-beginners-to-experts-4m11?ref=dailydev"
+          },
+          {
+            "type": "link",
+            "addDate": 1729662698549,
+            "title": "Shadcn Form Builder",
+            "icon": "https://logo.clearbit.com/shadcn-form-build.vercel.app",
+            "url": "https://shadcn-form-build.vercel.app/playground"
           }
         ]
       }
